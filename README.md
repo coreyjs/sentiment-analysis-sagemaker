@@ -8,6 +8,32 @@ _Deep Learning Nanodegree Program | Deployment_
 This notebook is a demostration of operating in the SageMaker enviornment, training, testing and deploying models.  This also builds a simple web
 interface to interact with the endpoing over HTTP using Api Gateway and Lambda.
 
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
 
 
 
