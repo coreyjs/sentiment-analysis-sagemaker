@@ -1,9 +1,26 @@
-# Creating a Sentiment Analysis Web App
+# Sentiment Analysis RNN with SageMaker Deployment.
 ## Using PyTorch and SageMaker
 
 _Deep Learning Nanodegree Program | Deployment_
 
 ---
+
+This notebook is a demostration of operating in the SageMaker enviornment, training, testing and deploying models.  This also builds a simple web
+interface to interact with the endpoing over HTTP using Api Gateway and Lambda.
+
+
+
+
+
+
+
+
+
+
+
+Below is the markdown export of the notebook.
+
+-----
 
 Now that we have a basic understanding of how SageMaker works we will try to use it to construct a complete project from end to end. Our goal will be to have a simple web page which a user can use to enter a movie review. The web page will then send the review off to our deployed model which will predict the sentiment of the entered review.
 
